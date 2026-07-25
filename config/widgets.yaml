@@ -1,0 +1,20 @@
+- search:
+    provider: google
+    target: _blank
+    focus: true
+    showInHeader: true
+
+- resources:
+    cpu: true
+    memory: true
+    disk: /
+
+- greeting:
+    text_size: md
+    text: "Welcome back!"
+
+- datetime:
+    text_size: md
+    format:
+      timeStyle: short
+      dateStyle: medium

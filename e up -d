@@ -1,0 +1,25 @@
+[0;1;32m●[0m tailscaled.service - Tailscale node agent
+     Loaded: loaded (]8;;file://egemen/usr/lib/systemd/system/tailscaled.service\/usr/lib/systemd/system/tailscaled.service]8;;\; [0;1;32menabled[0m; preset: [0;1;38:5:185mdisabled[0m)
+    Drop-In: /usr/lib/systemd/system/service.d
+             └─]8;;file://egemen/usr/lib/systemd/system/service.d/10-timeout-abort.conf\10-timeout-abort.conf]8;;\
+     Active: [0;1;32mactive (running)[0m since Sat 2026-07-25 01:15:05 CEST; 1h 7min ago
+ Invocation: 3cb66885e7ff461697dd473c1fb80354
+       Docs: ]8;;https://tailscale.com/docs/\https://tailscale.com/docs/]8;;\
+   Main PID: 6019 (tailscaled)
+     Status: "[0;1;36mConnected; egemenyildiz03@gmail.com; 100.69.168.92 fd7a:115c:a1e0::3001:a8be[0m"
+      Tasks: 18[0;38:5:245m (limit: 18831)[0m
+     Memory: 19.6M (peak: 31.7M)
+        CPU: 2.998s
+     CGroup: /system.slice/tailscaled.service
+             └─[0;38:5:245m6019 /usr/sbin/tailscaled --state=/var/lib/tailscale/tailscaled.state --socket=/run/tailscale/tailscaled.sock --port=41641[0m
+
+Jul 25 02:12:25 egemen tailscaled[6019]: monitor: RTM_DELROUTE: src=, dst=fe80::5465:76ff:fe46:d9a2/128, gw=, outif=62, table=255
+Jul 25 02:12:25 egemen tailscaled[6019]: monitor: RTM_DELROUTE: src=, dst=ff00::/8, gw=, outif=62, table=255
+Jul 25 02:14:58 egemen tailscaled[6019]: open-conn-track: timeout opening (TCP 100.69.168.92:35646 => 38.145.32.21:80); no associated peer node
+Jul 25 02:15:03 egemen tailscaled[6019]: open-conn-track: timeout opening (TCP 100.69.168.92:35646 => 38.145.32.21:80); no associated peer node
+Jul 25 02:15:09 egemen tailscaled[6019]: open-conn-track: timeout opening (TCP 100.69.168.92:35646 => 38.145.32.21:80); no associated peer node
+Jul 25 02:15:18 egemen tailscaled[6019]: open-conn-track: timeout opening (TCP 100.69.168.92:35646 => 38.145.32.21:80); no associated peer node
+Jul 25 02:19:58 egemen tailscaled[6019]: open-conn-track: timeout opening (TCP 100.69.168.92:41044 => 18.157.159.91:80); no associated peer node
+Jul 25 02:20:03 egemen tailscaled[6019]: open-conn-track: timeout opening (TCP 100.69.168.92:41044 => 18.157.159.91:80); no associated peer node
+Jul 25 02:20:09 egemen tailscaled[6019]: open-conn-track: timeout opening (TCP 100.69.168.92:41044 => 18.157.159.91:80); no associated peer node
+Jul 25 02:20:18 egemen tailscaled[6019]: open-conn-track: timeout opening (TCP 100.69.168.92:41044 => 18.157.159.91:80); no associated peer node

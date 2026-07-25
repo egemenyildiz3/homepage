@@ -1,0 +1,89 @@
+/* ==========================================================================
+   MINIMALIST DARK DASHBOARD & CLEAN SEARCH BAR
+   ========================================================================== */
+
+/* Slate/Charcoal Solid Background */
+body {
+  background-color: #0f172a !important;
+  background-image: none !important;
+}
+
+body::before {
+  display: none !important;
+}
+
+/* Category Title Styling */
+h2.category-title {
+  font-size: 0.9rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase;
+  color: #64748b !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* Crisp Dark Cards */
+.service-card, 
+.bookmark-card {
+  background: #1e293b !important;
+  border: 1px solid #334155 !important;
+  border-radius: 8px !important;
+  box-shadow: none !important;
+  transition: all 0.2s ease !important;
+}
+
+.service-card:hover, 
+.bookmark-card:hover {
+  background: #334155 !important;
+  border-color: #475569 !important;
+  transform: translateY(-2px) !important;
+}
+
+/* FIX: Compact Search Bar in Top Bar */
+.information-widget-search {
+  max-width: 220px !important;
+  width: auto !important;
+  background: #1e293b !important;
+  border: 1px solid #334155 !important;
+  border-radius: 6px !important;
+  display: flex !important;
+  align-items: center !important;
+  padding: 2px 8px !important;
+  margin: 0 10px !important;
+}
+
+.information-widget-search input {
+  background: transparent !important;
+  border: none !important;
+  color: #f8fafc !important;
+  font-size: 0.875rem !important;
+  width: 100% !important;
+  padding: 4px 6px !important;
+  box-shadow: none !important;
+}
+
+.information-widget-search input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.information-widget-search button,
+.information-widget-search form div {
+  background: transparent !important;
+  border: none !important;
+  color: #94a3b8 !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+/* Subtle Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 3px;
+}

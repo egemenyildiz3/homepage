@@ -1,0 +1,14 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+- Personal:
+    - FinTrack:
+        icon: /icons/fintrack.svg
+        href: http://100.69.168.92:8080
+        description: My personal finance app
+
+- Management:
+    - Portainer:
+        icon: portainer.png
+        href: http://100.69.168.92:9000
+        description: Docker management

@@ -1,0 +1,49 @@
+title: Home Dashboard
+theme: dark
+
+layout:
+  Personal:
+    style: row
+    columns: 2
+  Management:
+    style: row
+    columns: 2
+  Productivity:
+    style: row
+    columns: 4
+  Social:
+    style: row
+    columns: 4
+  AI:
+    style: row
+    columns: 3
+  Editing:
+    style: row
+    columns: 2
+  Work:
+    style: row
+    columns: 4
+  Entertainment:
+    style: row
+    columns: 4
+  Sports:
+    style: row
+    columns: 2
+  Finance:
+    style: row
+    columns: 4
+  Dutch Services:
+    style: row
+    columns: 4
+  Shopping:
+    style: row
+    columns: 4
+  Traveling:
+    style: row
+    columns: 4
+  Gaming:
+    style: row
+    columns: 3
+  News:
+    style: row
+    columns: 2

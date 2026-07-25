@@ -1,0 +1,347 @@
+- Productivity:
+    - Google Calendar:
+        - abbr: GC
+          icon: https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg
+          href: https://calendar.google.com/calendar/u/0/r
+    - Gmail:
+        - abbr: GM
+          icon: https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg
+          href: https://mail.google.com/mail/u/1/#inbox
+    - Google Drive:
+        - abbr: GD
+          icon: https://www.google.com/s2/favicons?domain=drive.google.com&sz=128
+          href: https://drive.google.com/drive/my-drive
+    - Google Translate:
+        - abbr: GT
+          icon: https://www.google.com/s2/favicons?domain=translate.google.com&sz=128
+          href: https://translate.google.com/
+    - Notion:
+        - abbr: NO
+          icon: https://www.google.com/s2/favicons?domain=notion.so&sz=128
+          href: https://www.notion.so/
+    - Google Keep:
+        - abbr: GK
+          icon: https://upload.wikimedia.org/wikipedia/commons/9/97/Google_Keep_icon_%282020%29.svg
+          href: https://keep.google.com/
+    - Outlook:
+        - abbr: OL
+          icon: https://www.google.com/s2/favicons?domain=outlook.live.com&sz=128
+          href: https://outlook.live.com/mail/0/
+    - iCloud:
+        - abbr: IC
+          icon: https://www.google.com/s2/favicons?domain=icloud.com&sz=128
+          href: https://www.icloud.com/
+    - Google Photos:
+        - abbr: GP
+          icon: https://www.google.com/s2/favicons?domain=photos.google.com&sz=128
+          href: https://photos.google.com/
+    - Microsoft 365:
+        - abbr: M3
+          icon: https://www.google.com/s2/favicons?domain=office.com&sz=128
+          href: https://www.office.com/
+
+- Social:
+    - WhatsApp:
+        - abbr: WA
+          icon: https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg
+          href: https://web.whatsapp.com/
+    - Discord:
+        - abbr: DC
+          icon: https://www.google.com/s2/favicons?domain=discord.com&sz=128
+          href: https://discord.com/channels/@me
+    - Telegram:
+        - abbr: TG
+          icon: https://www.google.com/s2/favicons?domain=telegram.org&sz=128
+          href: https://web.telegram.org/a/
+    - Twitter / X:
+        - abbr: TW
+          icon: https://www.google.com/s2/favicons?domain=x.com&sz=128
+          href: https://x.com/
+    - Instagram:
+        - abbr: IG
+          icon: https://www.google.com/s2/favicons?domain=instagram.com&sz=128
+          href: https://www.instagram.com/
+    - Reddit:
+        - abbr: RE
+          icon: https://www.google.com/s2/favicons?domain=reddit.com&sz=128
+          href: https://www.reddit.com/
+    - TikTok:
+        - abbr: TT
+          icon: https://www.google.com/s2/favicons?domain=tiktok.com&sz=128
+          href: https://www.tiktok.com/
+    - Facebook:
+        - abbr: FB
+          icon: https://www.google.com/s2/favicons?domain=facebook.com&sz=128
+          href: https://www.facebook.com/
+
+- Entertainment:
+    - YouTube:
+        - abbr: YT
+          icon: https://www.google.com/s2/favicons?domain=youtube.com&sz=128
+          href: https://www.youtube.com/
+    - Netflix:
+        - abbr: NF
+          icon: https://www.google.com/s2/favicons?domain=netflix.com&sz=128
+          href: https://www.netflix.com/
+    - Disney+:
+        - abbr: D+
+          icon: https://www.google.com/s2/favicons?domain=disneyplus.com&sz=128
+          href: https://www.disneyplus.com/
+    - Spotify:
+        - abbr: SP
+          icon: https://www.google.com/s2/favicons?domain=spotify.com&sz=128
+          href: https://open.spotify.com/
+    - YouTube Music:
+        - abbr: YM
+          icon: https://www.google.com/s2/favicons?domain=music.youtube.com&sz=128
+          href: https://music.youtube.com/
+    - Twitch:
+        - abbr: TV
+          icon: https://www.google.com/s2/favicons?domain=twitch.tv&sz=128
+          href: https://www.twitch.tv/
+    - Kick:
+        - abbr: KI
+          icon: https://www.google.com/s2/favicons?domain=kick.com&sz=128
+          href: https://kick.com/
+
+- Sports:
+    - Sofascore:
+        - abbr: SS
+          icon: https://www.google.com/s2/favicons?domain=sofascore.com&sz=128
+          href: https://www.sofascore.com/
+    - Maçkolik:
+        - abbr: MK
+          icon: https://www.google.com/s2/favicons?domain=mackolik.com&sz=128
+          href: https://www.mackolik.com/canli-sonuclar
+
+- Finance:
+    - ING:
+        - abbr: IN
+          icon: https://www.google.com/s2/favicons?domain=ing.nl&sz=128
+          href: https://mijn.ing.nl/banking/
+    - Revolut:
+        - abbr: RV
+          icon: https://www.google.com/s2/favicons?domain=revolut.com&sz=128
+          href: https://app.revolut.com/home
+    - PayPal:
+        - abbr: PP
+          icon: https://www.google.com/s2/favicons?domain=paypal.com&sz=128
+          href: https://www.paypal.com/myaccount/summary
+    - HalkBank:
+        - abbr: HB
+          icon: https://www.google.com/s2/favicons?domain=halkbank.com.tr&sz=128
+          href: https://sube.halkbank.com.tr/
+    - İş Bankası:
+        - abbr: IB
+          icon: https://www.google.com/s2/favicons?domain=isbank.com.tr&sz=128
+          href: https://www.isbank.com.tr/
+    - Papara:
+        - abbr: PA
+          icon: https://www.google.com/s2/favicons?domain=papara.com&sz=128
+          href: https://www.papara.com/
+    - Degiro:
+        - abbr: DG
+          icon: https://www.google.com/s2/favicons?domain=degiro.nl&sz=128
+          href: https://trader.degiro.nl/
+    - Interactive Brokers:
+        - abbr: IB
+          icon: https://www.google.com/s2/favicons?domain=interactivebrokers.com&sz=128
+          href: https://www.interactivebrokers.com/
+    - Binance:
+        - abbr: BN
+          icon: https://www.google.com/s2/favicons?domain=binance.com&sz=128
+          href: https://www.binance.com/
+    - TradingView:
+        - abbr: TV
+          icon: https://www.google.com/s2/favicons?domain=tradingview.com&sz=128
+          href: https://www.tradingview.com/
+    - CoinMarketCap:
+        - abbr: CM
+          icon: https://www.google.com/s2/favicons?domain=coinmarketcap.com&sz=128
+          href: https://coinmarketcap.com/
+
+- Dutch Services:
+    - Mijn Overheid:
+        - abbr: MO
+          icon: https://www.google.com/s2/favicons?domain=mijn.overheid.nl&sz=128
+          href: https://mijn.overheid.nl/
+    - DigiD:
+        - abbr: DD
+          icon: https://www.google.com/s2/favicons?domain=digid.nl&sz=128
+          href: https://mijn.digid.nl/
+    - Mijn IND:
+        - abbr: MI
+          icon: https://www.google.com/s2/favicons?domain=ind.nl&sz=128
+          href: https://public.portal.ind.nl/
+    - Belastingdienst:
+        - abbr: BD
+          icon: https://www.google.com/s2/favicons?domain=belastingdienst.nl&sz=128
+          href: https://mijn.belastingdienst.nl/
+    - My DUO:
+        - abbr: DU
+          icon: https://www.google.com/s2/favicons?domain=duo.nl&sz=128
+          href: https://mijn.duo.nl/
+    - CZ (Health):
+        - abbr: CZ
+          icon: https://www.google.com/s2/favicons?domain=cz.nl&sz=128
+          href: https://mijn.cz.nl/
+    - BeFrank Pension:
+        - abbr: BF
+          icon: https://www.google.com/s2/favicons?domain=befrank.nl&sz=128
+          href: https://mijnpensioen.befrank.nl/
+    - OV Chipkaart:
+        - abbr: OV
+          icon: https://www.google.com/s2/favicons?domain=ov-chipkaart.nl&sz=128
+          href: https://www.ov-chipkaart.nl/
+    - Lebara:
+        - abbr: LB
+          icon: https://www.google.com/s2/favicons?domain=lebara.nl&sz=128
+          href: https://www.lebara.nl/
+    - Budget Thuis:
+        - abbr: BT
+          icon: https://www.google.com/s2/favicons?domain=budgetthuis.nl&sz=128
+          href: https://mijn.budgetthuis.nl/
+    - Vitens:
+        - abbr: VI
+          icon: https://www.google.com/s2/favicons?domain=vitens.nl&sz=128
+          href: https://mijn.vitens.nl/
+    - GBTwente:
+        - abbr: GB
+          icon: https://www.google.com/s2/favicons?domain=gbtwente.nl&sz=128
+          href: https://mijn.gbtwente.nl/
+
+- Shopping:
+    - Amazon:
+        - abbr: AZ
+          icon: https://www.google.com/s2/favicons?domain=amazon.nl&sz=128
+          href: https://www.amazon.nl/
+    - Marktplaats:
+        - abbr: MP
+          icon: https://www.google.com/s2/favicons?domain=marktplaats.nl&sz=128
+          href: https://www.marktplaats.nl/
+    - AliExpress:
+        - abbr: AE
+          icon: https://www.google.com/s2/favicons?domain=aliexpress.com&sz=128
+          href: https://www.aliexpress.com/
+    - Temu:
+        - abbr: TM
+          icon: https://www.google.com/s2/favicons?domain=temu.com&sz=128
+          href: https://www.temu.com/
+    - Thuisbezorgd:
+        - abbr: TB
+          icon: https://www.google.com/s2/favicons?domain=thuisbezorgd.nl&sz=128
+          href: https://www.thuisbezorgd.nl/
+    - Uber Eats:
+        - abbr: UE
+          icon: https://www.google.com/s2/favicons?domain=ubereats.com&sz=128
+          href: https://www.ubereats.com/
+    - Albert Heijn:
+        - abbr: AH
+          icon: https://www.google.com/s2/favicons?domain=ah.nl&sz=128
+          href: https://www.ah.nl/
+    - Jumbo:
+        - abbr: JU
+          icon: https://www.google.com/s2/favicons?domain=jumbo.com&sz=128
+          href: https://www.jumbo.com/
+    - Aldi:
+        - abbr: AL
+          icon: https://www.google.com/s2/favicons?domain=aldi.nl&sz=128
+          href: https://www.aldi.nl/
+    - Lidl:
+        - abbr: LD
+          icon: https://www.google.com/s2/favicons?domain=lidl.nl&sz=128
+          href: https://www.lidl.nl/
+    - Ticketmaster:
+        - abbr: TM
+          icon: https://www.google.com/s2/favicons?domain=ticketmaster.nl&sz=128
+          href: https://www.ticketmaster.nl/
+
+- Traveling:
+    - Google Maps:
+        - abbr: GM
+          icon: https://www.google.com/s2/favicons?domain=google.com&sz=128
+          href: https://www.google.com/maps
+    - NS (Train):
+        - abbr: NS
+          icon: https://www.google.com/s2/favicons?domain=ns.nl&sz=128
+          href: https://www.ns.nl/en
+    - Uber:
+        - abbr: UB
+          icon: https://www.google.com/s2/favicons?domain=uber.com&sz=128
+          href: https://www.uber.com/
+    - Skyscanner:
+        - abbr: SK
+          icon: https://www.google.com/s2/favicons?domain=skyscanner.nl&sz=128
+          href: https://www.skyscanner.nl/
+    - Booking:
+        - abbr: BK
+          icon: https://www.google.com/s2/favicons?domain=booking.com&sz=128
+          href: https://www.booking.com/
+    - EasyJet:
+        - abbr: EJ
+          icon: https://www.google.com/s2/favicons?domain=easyjet.com&sz=128
+          href: https://www.easyjet.com/
+    - FlixBus:
+        - abbr: FB
+          icon: https://www.google.com/s2/favicons?domain=flixbus.com&sz=128
+          href: https://global.flixbus.com/
+    - Omio:
+        - abbr: OM
+          icon: https://www.google.com/s2/favicons?domain=omio.com&sz=128
+          href: https://www.omio.com/
+    - Trainline:
+        - abbr: TR
+          icon: https://www.google.com/s2/favicons?domain=thetrainline.com&sz=128
+          href: https://www.thetrainline.com/
+    - Flightradar24:
+        - abbr: FR
+          icon: https://www.google.com/s2/favicons?domain=flightradar24.com&sz=128
+          href: https://www.flightradar24.com/
+    - Buienradar:
+        - abbr: BR
+          icon: https://www.google.com/s2/favicons?domain=buienradar.nl&sz=128
+          href: https://www.buienradar.nl/
+
+- Gaming:
+    - Steam:
+        - abbr: ST
+          icon: https://www.google.com/s2/favicons?domain=steampowered.com&sz=128
+          href: https://store.steampowered.com/
+    - Epic Games:
+        - abbr: EG
+          icon: https://www.google.com/s2/favicons?domain=epicgames.com&sz=128
+          href: https://store.epicgames.com/
+    - PlayStation:
+        - abbr: PS
+          icon: https://www.google.com/s2/favicons?domain=playstation.com&sz=128
+          href: https://www.playstation.com/
+    - EA:
+        - abbr: EA
+          icon: https://www.google.com/s2/favicons?domain=ea.com&sz=128
+          href: https://www.ea.com/
+    - HaxBall:
+        - abbr: HX
+          icon: https://www.google.com/s2/favicons?domain=haxball.com&sz=128
+          href: https://www.haxball.com/
+    - Lichess:
+        - abbr: LC
+          icon: https://www.google.com/s2/favicons?domain=lichess.org&sz=128
+          href: https://lichess.org/
+
+- News:
+    - NOS:
+        - abbr: NO
+          icon: https://www.google.com/s2/favicons?domain=nos.nl&sz=128
+          href: https://nos.nl/
+    - Reuters:
+        - abbr: RE
+          icon: https://www.google.com/s2/favicons?domain=reuters.com&sz=128
+          href: https://www.reuters.com/
+    - TechCrunch:
+        - abbr: TC
+          icon: https://www.google.com/s2/favicons?domain=techcrunch.com&sz=128
+          href: https://techcrunch.com/
+    - Bundle:
+        - abbr: BU
+          icon: https://www.google.com/s2/favicons?domain=bundle.app&sz=128
+          href: https://www.bundle.app/

@@ -1,0 +1,8 @@
+homepage/logs/
+homepage/cache/
+*.log
+
+.DS_Store
+Thumbs.db
+
+.env
