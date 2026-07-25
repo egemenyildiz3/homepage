@@ -13,6 +13,12 @@
         server: my-docker
         container: noter-frontend
 
+    - File Browser:
+        icon: filebrowser.png
+        href: "http://100.69.168.92:8083"
+        description: "Simple web-based file manager"
+        container: filebrowser
+
 - Management:
     - Portainer:
         icon: portainer.svg
