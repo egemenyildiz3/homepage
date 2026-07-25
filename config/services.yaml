@@ -1,14 +1,22 @@
----
-# For configuration options and examples, please see:
-# https://gethomepage.dev/configs/services/
-- Personal:
+- Apps:
     - FinTrack:
         icon: /icons/fintrack.svg
-        href: http://100.69.168.92:8080
-        description: My personal finance app
+        href: "http://100.69.168.92:8080"
+        description: "My personal finance app"
+        server: my-docker
+        container: fintrack-frontend
+
+    - Noter:
+        icon: /icons/noter.svg
+        href: "http://100.69.168.92:8081"
+        description: "Noter web interface"
+        server: my-docker
+        container: noter-frontend
 
 - Management:
     - Portainer:
-        icon: portainer.png
-        href: http://100.69.168.92:9000
-        description: Docker management
+        icon: portainer.svg
+        href: "http://100.69.168.92:9000"
+        description: "Docker management"
+        server: my-docker
+        container: portainer

@@ -2,7 +2,7 @@ title: Home Dashboard
 theme: dark
 
 layout:
-  Personal:
+  Apps:
     style: row
     columns: 2
   Management:
