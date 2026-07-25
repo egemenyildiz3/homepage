@@ -14,15 +14,58 @@
         container: noter-frontend
 
     - File Browser:
-        icon: filebrowser.png
+        icon: filebrowser
         href: "http://100.69.168.92:8083"
         description: "Simple web-based file manager"
+        server: my-docker
         container: filebrowser
 
-- Management:
+- Others:
+    - Vaultwarden:
+        icon: bitwarden
+        href: "http://100.69.168.92:8084"
+        description: "Password manager"
+        server: my-docker
+        container: vaultwarden
+
+    - Immich:
+        icon: immich
+        href: "http://100.69.168.92:2283"
+        description: "Photos & video backup"
+        server: my-docker
+        container: immich_server
+
     - Portainer:
-        icon: portainer.svg
+        icon: portainer
         href: "http://100.69.168.92:9000"
         description: "Docker management"
         server: my-docker
         container: portainer
+
+    - Dozzle:
+        icon: dozzle
+        href: "http://100.69.168.92:8085"
+        description: "Real-time Docker log viewer"
+        server: my-docker
+        container: dozzle
+
+    - Uptime Kuma:
+        icon: uptime-kuma
+        href: "http://100.69.168.92:3001"
+        description: "Status & uptime monitoring"
+        server: my-docker
+        container: uptime-kuma
+
+    - AdGuard Home:
+        icon: adguard-home
+        href: "http://100.69.168.92:8086"
+        description: "Network-wide ad blocker"
+        server: my-docker
+        container: adguardhome
+
+    - n8n:
+        icon: n8n
+        href: "http://100.69.168.92:5678"
+        description: "Workflow automation"
+        server: my-docker
+        container: n8n

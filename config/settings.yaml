@@ -4,10 +4,10 @@ theme: dark
 layout:
   Apps:
     style: row
-    columns: 2
-  Management:
+    columns: 3
+  Others:
     style: row
-    columns: 2
+    columns: 3
   Productivity:
     style: row
     columns: 4
