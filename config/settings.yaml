@@ -3,6 +3,12 @@ cardBlur: md
 theme: dark
 headerStyle: boxed
 
+trustProxy: true
+allowedHosts:
+  - homelab
+  - 100.69.168.92
+  - localhost
+
 layout:
   Apps:
     style: row

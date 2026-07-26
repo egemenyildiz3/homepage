@@ -5,11 +5,22 @@ services:
     ports:
       - 3000:3000
     environment:
-      HOMEPAGE_ALLOWED_HOSTS: 100.69.168.92:3000,egemen:3000,homelab:3000
+      HOMEPAGE_ALLOWED_HOSTS: "homelab,homelab:3000,100.69.168.92,100.69.168.92:3000,localhost,127.0.0.1,homelab.tail4a806d.ts.net"
     volumes:
       - ./config:/app/config
       - ./config/icons:/app/public/icons
       - /var/run/docker.sock:/var/run/docker.sock:ro
       - /:/host:ro
-      - ./config/icons:/app/public/icons
     restart: unless-stopped
+    networks:
+      - homelab-net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.homepage.rule=Host(`homelab`) || Host(`homelab.tail4a806d.ts.net`)"
+      - "traefik.http.routers.homepage.entrypoints=websecure"
+      - "traefik.http.routers.homepage.tls=true"
+      - "traefik.http.services.homepage.loadbalancer.server.port=3000"
+
+networks:
+  homelab-net:
+    external: true

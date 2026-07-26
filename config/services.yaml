@@ -23,7 +23,7 @@
 - Others:
     - Vaultwarden:
         icon: bitwarden
-        href: "http://100.69.168.92:8084"
+        href: "https://100.69.168.92"
         description: "Password manager"
         server: my-docker
         container: vaultwarden
