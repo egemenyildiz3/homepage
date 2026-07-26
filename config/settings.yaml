@@ -1,5 +1,7 @@
-title: Home Dashboard
+title: Egemen's Command Center
+cardBlur: md
 theme: dark
+headerStyle: boxed
 
 layout:
   Apps:

@@ -35,6 +35,11 @@
         server: my-docker
         container: immich_server
 
+    - Jellyfin:
+        icon: jellyfin.png
+        href: "http://100.69.168.92:8096"
+        description: Media Server
+
     - Portainer:
         icon: portainer
         href: "http://100.69.168.92:9000"

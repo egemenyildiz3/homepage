@@ -21,7 +21,7 @@
           href: https://www.notion.so/
     - Google Keep:
         - abbr: GK
-          icon: https://upload.wikimedia.org/wikipedia/commons/9/97/Google_Keep_icon_%282020%29.svg
+          icon: google-keep.png
           href: https://keep.google.com/
     - Outlook:
         - abbr: OL

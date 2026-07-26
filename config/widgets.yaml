@@ -8,13 +8,16 @@
     cpu: true
     memory: true
     disk: /
-
-- greeting:
-    text_size: md
-    text: "Welcome back!"
+    expanded: true
 
 - datetime:
     text_size: md
     format:
       timeStyle: short
       dateStyle: medium
+
+- openmeteo:
+    label: Enschede
+    latitude: 52.2215
+    longitude: 6.8937
+    units: metric
