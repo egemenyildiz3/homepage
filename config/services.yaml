@@ -23,7 +23,7 @@
 - Others:
     - Vaultwarden:
         icon: bitwarden
-        href: "https://100.69.168.92"
+        href: "http://100.69.168.92:8082"
         description: "Password manager"
         server: my-docker
         container: vaultwarden
@@ -67,10 +67,3 @@
         description: "Network-wide ad blocker"
         server: my-docker
         container: adguardhome
-
-    - n8n:
-        icon: n8n
-        href: "http://100.69.168.92:5678"
-        description: "Workflow automation"
-        server: my-docker
-        container: n8n
