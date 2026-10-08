@@ -20,12 +20,12 @@
         server: my-docker
         container: filebrowser
 
-    - Web Terminal:
-        icon: mdi-console
-        href: "http://100.69.168.92:7681"
-        description: "Terminal access over Tailscale"
+    - Terminal Web:
+        icon: mdi-tab
+        href: "http://100.69.168.92:8090"
+        description: "Tabbed, resumable terminal"
         server: my-docker
-        container: web-terminal
+        container: terminal-web
 
 - Others:
     - Vaultwarden:
